@@ -1,0 +1,58 @@
+export const data = [
+   {
+    name: 'Pizza pepperoni',
+    price: '20',
+    description: 'This is the best pizza in the word! Make sure you try it today get 20% off. Call your friends and make this moment memorable',
+    image: 'https://express-pizza.if.ua/media/1698703952_119.webp',
+    id: 1,
+   },
+   {
+    name: 'Salami',
+    price: '20',
+    description: 'This is the best pizza in the word! Make sure you try it today get 20% off. Call your friends and make this moment memorable',
+    image: 'https://express-pizza.if.ua/media/1698703873_892.webp',
+    id: 2,
+   },
+   {
+    name: 'Quattro Formage',
+    price: '20',
+    description: 'This is the best pizza in the word! Make sure you try it today get 20% off. Call your friends and make this moment memorable',
+    image: 'https://express-pizza.if.ua/media/1698704248_756.webp',
+    id: 3,
+   },
+   {
+    name: 'Meat pizza',
+    price: '20',
+    description: 'This is the best pizza in the word! Make sure you try it today get 20% off. Call your friends and make this moment memorable',
+    image: 'https://express-pizza.if.ua/media/1698704214_822.webp',
+    id: 4,
+   },
+   {
+    name: 'Tuscany',
+    price: '20',
+    description: 'This is the best pizza in the word! Make sure you try it today get 20% off. Call your friends and make this moment memorable',
+    image: 'https://express-pizza.if.ua/media/1698703157_945.webp',
+    id: 5,
+   },
+   {
+    name: 'Pancetta',
+    price: '20',
+    description: 'This is the best pizza in the word! Make sure you try it today get 20% off. Call your friends and make this moment memorable',
+    image: 'https://express-pizza.if.ua/media/1698703982_864.webp',
+    id: 6,
+   },
+   {
+    name: 'Hawaiian',
+    price: '20',
+    description: 'This is the best pizza in the word! Make sure you try it today get 20% off. Call your friends and make this moment memorable',
+    image: 'https://express-pizza.if.ua/media/1698704400_601.webp',
+    id: 7,
+   },
+   {
+    name: 'Caesar',
+    price: '20',
+    description: 'This is the best pizza in the word! Make sure you try it today get 20% off. Call your friends and make this moment memorable',
+    image: 'https://express-pizza.if.ua/media/1698703109_943.webp',
+    id: 8,
+   },
+]
