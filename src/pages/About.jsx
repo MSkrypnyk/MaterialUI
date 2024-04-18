@@ -26,7 +26,7 @@ export const About = () => {
         />
       </div>
       <div>
-        <Accordion>
+        <Accordion style={{backgroundColor: "rgb(205, 205, 193)"}}>
           <AccordionSummary
             expandIcon={<ArrowDownwardIcon />}
             aria-controls="panel1-content"
@@ -50,7 +50,7 @@ export const About = () => {
             </Typography>
           </AccordionDetails>
         </Accordion>
-        <Accordion>
+        <Accordion style={{backgroundColor: "rgb(260, 250, 210)"}}>
           <AccordionSummary
             expandIcon={<ArrowDropDownIcon />}
             aria-controls="panel2-content"
@@ -72,7 +72,7 @@ export const About = () => {
             </Typography>
           </AccordionDetails>
         </Accordion>
-        <Accordion>
+        <Accordion style={{backgroundColor: "rgb(205, 205, 193)"}}>
           <AccordionSummary
             expandIcon={<ArrowDropDownIcon />}
             aria-controls="panel2-content"

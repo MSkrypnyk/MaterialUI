@@ -10,8 +10,8 @@ export const App = () => {
   return (
     <BrowserRouter>
       <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
+      <Routes >
+        <Route  path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/order" element={<Order />} />
       </Routes>

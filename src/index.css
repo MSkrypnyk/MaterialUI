@@ -2,9 +2,13 @@ html,
 body {
   height: 100%;
   overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
 #root {
     height: 100%;
     display: grid;
     grid-template-rows: auto 1fr auto;
+    overflow-x: auto;
+    background-color: rgb(111, 111, 111);
   }
